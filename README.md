@@ -1,10 +1,21 @@
 # Scaling Painting Style Transfer
-Official repository for the paper "Scaling Painting Style Transfer" by 
+Official repository for the paper 
+\
+[***Scaling Painting Style Transfer***](https://hal.science/hal-03897715/en)
+\
+by 
 [Bruno Galerne](https://www.idpoisson.fr/galerne/), 
 [Lara Raad](http://dev.ipol.im/~lraad/), 
 [José Lezama](https://iie.fing.edu.uy/~jlezama/),
 and
-[Jean-Michel Morel](https://sites.google.com/site/jeanmichelmorelcmlaenscachan)
+[Jean-Michel Morel](https://sites.google.com/site/jeanmichelmorelcmlaenscachan), 
+\
+**accepted at [EGSR 2024](https://www.egsr2024.uk/) (CGF paper)**
+\
+**Preprint:**  [Hal](https://hal.science/hal-03897715/en) (full version with supplemental material), [ArXiv](https://arxiv.org/abs/2212.13459) (paper only)
+
+
+See the [**projet page**](https://idpoisson.fr/galerne/spst/) for more information and [visualization of Ultra-High Resolution (UHR) results](https://idpoisson.fr/galerne/spst/index.html#UHR_results_visualizer).
 
 ![Teaser for SPST](img/teaser.png)
 
@@ -88,9 +99,11 @@ Output results are written in the ```results/```folder.
                         device.
 ```
 
-## TODO:
-* Code for texture synthesis
-* Description of source code files
+We also provide the script ```texture_synthesis_spst.py``` to perform UHR texture synthesis.
+
+
+
+
 
 
 

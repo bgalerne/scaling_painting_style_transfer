@@ -1,9 +1,13 @@
 # This is the main module for
 # Scaling Painting Style Transfer
 # Authors: Bruno Galerne, Lara Raad, José Lezama, Jean-Michel Morel
+# Accepted at EGSR 2024 (CGF paper)
+# HAL (full preprint with supplementary material): 
+# https://hal.science/hal-03897715/
+# ArXiv (paper preprint only):
 # https://arxiv.org/abs/2212.13459
 # Project page:
-# https://www.idpoisson.fr/galerne/scaling_painting_style_transfer/index.html
+# https://www.idpoisson.fr/galerne/spst/index.html
 #
 ################################################################################
 # Parse arguments:
